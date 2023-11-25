@@ -6,7 +6,7 @@ This is the repository for the rules and procedures manual of Grapplicon.
 
 Click on the following link to view the manual:
 
-[Link to Notebook](manual.ipynb)
+[Link to Grapplicon Manual](manual.ipynb)
 
 Grapplicon is intended to be a submission grappling online platform for managing the operations involved in tournaments and matches, as well as providing a standardization to belt rank promotions, under rules and procedures deviating from current approaches of today.
 
